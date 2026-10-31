@@ -35,6 +35,8 @@ This repository is divided into several modules corresponding to the course time
     *   Graph representations (Adjacency Matrix/List)
     *   Breadth-First Search (BFS)
     *   Depth-First Search (DFS)
+    *   Dijkstra's Algorithm (Shortest Path Via Priority Queue)
+    *   Bellman-Ford Algorithm(Shortest path and negative Cycle Detection)
 
 ---
 
